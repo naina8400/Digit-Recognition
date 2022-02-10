@@ -7,9 +7,6 @@ MNIST is a widely used dataset for the hand-written digit classification task. I
 
 ## Features
 Each digit image is 28x28 pixel. In the data set, each sample is represented by a normalized 28x28=784 dimensional vector.
-C:\Users\naina\Pictures\Screenshots\sample img.png
+
 ## Sample Dataset
-
-
 ![Sample Image](https://machinelearningmastery.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png)
-
